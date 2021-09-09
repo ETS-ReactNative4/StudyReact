@@ -5,7 +5,7 @@
   "private": true,
   "dependencies": {
     "antd-mobile": "^2.2.14",
-    "axios": "^0.21.0",
+    "axios": "^0.21.2",
     "create-react-class": "15.6.3",
     "download": "^8.0.0",
     "express": "^4.17.1",
